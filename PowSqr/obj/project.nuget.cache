@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "oyNIEKxSb7SudXD2Q5oV+/CrtjOIFboqU5llpk1ENgZ99qfOUX3ZNFEiH0jP7haIEzZMCkSIi3xntknAA84gvA==",
+  "success": true,
+  "projectFilePath": "C:\\СВП\\Черновик дизайна Кати\\Chernovik dizaina Kati\\PowSqr\\PowSqr.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tanya\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Tanya\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

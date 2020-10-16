@@ -1,0 +1,26 @@
+C:\СВП\Черновик дизайна Кати\Chernovik dizaina Kati\Chernovik dizaina Kati\bin\Debug\netcoreapp3.1\Chernovik dizaina Kati.exe
+C:\СВП\Черновик дизайна Кати\Chernovik dizaina Kati\Chernovik dizaina Kati\bin\Debug\netcoreapp3.1\Chernovik dizaina Kati.deps.json
+C:\СВП\Черновик дизайна Кати\Chernovik dizaina Kati\Chernovik dizaina Kati\bin\Debug\netcoreapp3.1\Chernovik dizaina Kati.runtimeconfig.json
+C:\СВП\Черновик дизайна Кати\Chernovik dizaina Kati\Chernovik dizaina Kati\bin\Debug\netcoreapp3.1\Chernovik dizaina Kati.runtimeconfig.dev.json
+C:\СВП\Черновик дизайна Кати\Chernovik dizaina Kati\Chernovik dizaina Kati\bin\Debug\netcoreapp3.1\Chernovik dizaina Kati.dll
+C:\СВП\Черновик дизайна Кати\Chernovik dizaina Kati\Chernovik dizaina Kati\bin\Debug\netcoreapp3.1\Chernovik dizaina Kati.pdb
+C:\СВП\Черновик дизайна Кати\Chernovik dizaina Kati\Chernovik dizaina Kati\bin\Debug\netcoreapp3.1\PowSqr.dll
+C:\СВП\Черновик дизайна Кати\Chernovik dizaina Kati\Chernovik dizaina Kati\bin\Debug\netcoreapp3.1\PowSqr.pdb
+C:\СВП\Черновик дизайна Кати\Chernovik dizaina Kati\Chernovik dizaina Kati\obj\Debug\netcoreapp3.1\Chernovik dizaina Kati.csprojAssemblyReference.cache
+C:\СВП\Черновик дизайна Кати\Chernovik dizaina Kati\Chernovik dizaina Kati\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\СВП\Черновик дизайна Кати\Chernovik dizaina Kati\Chernovik dizaina Kati\obj\Debug\netcoreapp3.1\Pow.g.cs
+C:\СВП\Черновик дизайна Кати\Chernovik dizaina Kati\Chernovik dizaina Kati\obj\Debug\netcoreapp3.1\App.g.cs
+C:\СВП\Черновик дизайна Кати\Chernovik dizaina Kati\Chernovik dizaina Kati\obj\Debug\netcoreapp3.1\Chernovik dizaina Kati_MarkupCompile.cache
+C:\СВП\Черновик дизайна Кати\Chernovik dizaina Kati\Chernovik dizaina Kati\obj\Debug\netcoreapp3.1\Chernovik dizaina Kati_MarkupCompile.lref
+C:\СВП\Черновик дизайна Кати\Chernovik dizaina Kati\Chernovik dizaina Kati\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\СВП\Черновик дизайна Кати\Chernovik dizaina Kati\Chernovik dizaina Kati\obj\Debug\netcoreapp3.1\Pow.baml
+C:\СВП\Черновик дизайна Кати\Chernovik dizaina Kati\Chernovik dizaina Kati\obj\Debug\netcoreapp3.1\Chernovik dizaina Kati.g.resources
+C:\СВП\Черновик дизайна Кати\Chernovik dizaina Kati\Chernovik dizaina Kati\obj\Debug\netcoreapp3.1\Chernovik dizaina Kati.AssemblyInfoInputs.cache
+C:\СВП\Черновик дизайна Кати\Chernovik dizaina Kati\Chernovik dizaina Kati\obj\Debug\netcoreapp3.1\Chernovik dizaina Kati.AssemblyInfo.cs
+C:\СВП\Черновик дизайна Кати\Chernovik dizaina Kati\Chernovik dizaina Kati\obj\Debug\netcoreapp3.1\Chernovik dizaina Kati.csproj.CoreCompileInputs.cache
+C:\СВП\Черновик дизайна Кати\Chernovik dizaina Kati\Chernovik dizaina Kati\obj\Debug\netcoreapp3.1\Chernovik dizaina Kati.csproj.CopyComplete
+C:\СВП\Черновик дизайна Кати\Chernovik dizaina Kati\Chernovik dizaina Kati\obj\Debug\netcoreapp3.1\Chernovik dizaina Kati.dll
+C:\СВП\Черновик дизайна Кати\Chernovik dizaina Kati\Chernovik dizaina Kati\obj\Debug\netcoreapp3.1\Chernovik dizaina Kati.pdb
+C:\СВП\Черновик дизайна Кати\Chernovik dizaina Kati\Chernovik dizaina Kati\obj\Debug\netcoreapp3.1\Chernovik dizaina Kati.genruntimeconfig.cache
+C:\СВП\Черновик дизайна Кати\Chernovik dizaina Kati\Chernovik dizaina Kati\obj\Debug\netcoreapp3.1\Sqr.g.cs
+C:\СВП\Черновик дизайна Кати\Chernovik dizaina Kati\Chernovik dizaina Kati\obj\Debug\netcoreapp3.1\Sqr.baml

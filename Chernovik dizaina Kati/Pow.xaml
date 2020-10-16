@@ -1,0 +1,91 @@
+﻿<Window x:Class="firstlab.Pow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:firstlab"
+        mc:Ignorable="d"
+        Title="Возведение в n-ую степень" Height="450" Width="800" WindowStartupLocation="CenterScreen">
+    <Window.Background>
+        <ImageBrush ImageSource="/7MoJnMy1qU8.jpg"/>
+    </Window.Background>
+    <Grid>
+        <Button x:Name="calculate_pow" Width="196" Height="48" Content = "Calculate" Margin="168,325,0,0" Click="calculate_Click" VerticalAlignment="Top" HorizontalAlignment="Left" FontSize="22" FontFamily="Cooper Black">
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FFF9F986"/>
+                    <GradientStop Color="#FFF37EEF" Offset="1"/>
+                </LinearGradientBrush>
+            </Button.Background>
+            <Button.Foreground>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FFDB81F0"/>
+                    <GradientStop Color="#FF992DFA" Offset="1"/>
+                </LinearGradientBrush>
+            </Button.Foreground>
+        </Button>
+        <TextBox x:Name="A_p" Text="" TextWrapping="Wrap" Margin="373,41,156,343" FontSize="22" FontFamily="Cooper Black" Background="{x:Null}" >
+            <TextBox.Foreground>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FFDD70F0"/>
+                    <GradientStop Color="#FF9735E4" Offset="1"/>
+                </LinearGradientBrush>
+            </TextBox.Foreground>
+        </TextBox>
+        <TextBox x:Name="B_p" Text="" TextWrapping="Wrap" Margin="373,108,156,259" FontSize="22" FontFamily="Cooper Black" Height="50.04" Background="{x:Null}" >
+            <TextBox.Foreground>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FFEF82FD"/>
+                    <GradientStop Color="#FF9B29F4" Offset="1"/>
+                </LinearGradientBrush>
+            </TextBox.Foreground>
+        </TextBox>
+        <TextBlock HorizontalAlignment="Left" Margin="184,46,0,0" Text="A" TextWrapping="Wrap" TextAlignment="Center" VerticalAlignment="Top" Height="45" Width="78" FontSize="22" FontFamily="Cooper Black">
+            <TextBlock.Foreground>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FFE44FF1"/>
+                    <GradientStop Color="#FF8D32D3" Offset="1"/>
+                </LinearGradientBrush>
+            </TextBlock.Foreground>
+        </TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="184,130,0,0" Text="B" TextWrapping="Wrap" TextAlignment="Center" VerticalAlignment="Top" Height="45" Width="77" FontSize="22" FontFamily="Cooper Black" RenderTransformOrigin="0.549,0.064">
+            <TextBlock.Foreground>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FFE571FF"/>
+                    <GradientStop Color="#FF8816FF" Offset="1"/>
+                </LinearGradientBrush>
+            </TextBlock.Foreground>
+        </TextBlock>
+        <Button x:Name ="Menu" Content="Back to main menu" HorizontalAlignment="Left" Margin="400,324,0,0" VerticalAlignment="Top" Click="Button_Click_Menu" Width="244" Height="49" FontSize="22" FontFamily="Cooper Black">
+            <Button.Foreground>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FFEE5DF4"/>
+                    <GradientStop Color="#FFA033E8" Offset="0.994"/>
+                </LinearGradientBrush>
+            </Button.Foreground>
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FFEBF66C"/>
+                    <GradientStop Color="#FFEC8CF4" Offset="1"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+        <TextBlock x:Name="L_Bow" HorizontalAlignment="Left" Margin="125,188,0,0" Text="Raising A to B power =" TextWrapping="Wrap" VerticalAlignment="Top" Height="68" Width="255" FontSize="22" FontFamily="Cooper Black">
+            <TextBlock.Foreground>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FFD548EE"/>
+                    <GradientStop Color="#FF7428C3" Offset="1"/>
+                </LinearGradientBrush>
+            </TextBlock.Foreground>
+        </TextBlock>
+        <TextBlock x:Name="p" HorizontalAlignment="Left" Margin="398,188,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Height="23" Width="246" FontSize="22" FontFamily="Cooper Black">
+            <TextBlock.Foreground>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FFE17AF9"/>
+                    <GradientStop Color="#FF9527F7" Offset="1"/>
+                </LinearGradientBrush>
+            </TextBlock.Foreground>
+        </TextBlock>
+
+    </Grid>
+</Window>

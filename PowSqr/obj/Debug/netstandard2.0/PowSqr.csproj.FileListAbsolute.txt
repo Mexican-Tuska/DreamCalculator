@@ -1,0 +1,9 @@
+C:\СВП\Черновик дизайна Кати\Chernovik dizaina Kati\PowSqr\bin\Debug\netstandard2.0\PowSqr.deps.json
+C:\СВП\Черновик дизайна Кати\Chernovik dizaina Kati\PowSqr\bin\Debug\netstandard2.0\PowSqr.dll
+C:\СВП\Черновик дизайна Кати\Chernovik dizaina Kati\PowSqr\bin\Debug\netstandard2.0\PowSqr.pdb
+C:\СВП\Черновик дизайна Кати\Chernovik dizaina Kati\PowSqr\obj\Debug\netstandard2.0\PowSqr.csprojAssemblyReference.cache
+C:\СВП\Черновик дизайна Кати\Chernovik dizaina Kati\PowSqr\obj\Debug\netstandard2.0\PowSqr.AssemblyInfoInputs.cache
+C:\СВП\Черновик дизайна Кати\Chernovik dizaina Kati\PowSqr\obj\Debug\netstandard2.0\PowSqr.AssemblyInfo.cs
+C:\СВП\Черновик дизайна Кати\Chernovik dizaina Kati\PowSqr\obj\Debug\netstandard2.0\PowSqr.csproj.CoreCompileInputs.cache
+C:\СВП\Черновик дизайна Кати\Chernovik dizaina Kati\PowSqr\obj\Debug\netstandard2.0\PowSqr.dll
+C:\СВП\Черновик дизайна Кати\Chernovik dizaina Kati\PowSqr\obj\Debug\netstandard2.0\PowSqr.pdb
